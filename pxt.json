@@ -1,5 +1,5 @@
 {
-    "name": "Smiley Buttons",
+    "name": "smiley-buttons",
     "description": "",
     "dependencies": {
         "core": "*",
