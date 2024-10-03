@@ -2,14 +2,12 @@
     "name": "smiley-buttons",
     "description": "",
     "dependencies": {
-        "core": "*",
-        "radio": "*",
-        "microphone": "*"
+        "core": "*"
     },
     "files": [
-        "main.blocks",
         "main.ts",
-        "README.md"
+        "README.md",
+        "LICENSE.md"
     ],
     "testFiles": [
         "test.ts"
