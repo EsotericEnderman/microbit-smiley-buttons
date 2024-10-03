@@ -30,6 +30,7 @@
         "Enderman",
         "jekyll",
         "makecode",
-        "microbit"
+        "microbit",
+        "pyprj"
     ]
 }
