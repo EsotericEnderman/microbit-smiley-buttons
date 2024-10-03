@@ -1,6 +1,6 @@
 {
     "name": "smiley-buttons",
-    "description": "",
+    "description": "A microbit project that makes buttons show smiley faces on the screen.",
     "dependencies": {
         "core": "*"
     },
