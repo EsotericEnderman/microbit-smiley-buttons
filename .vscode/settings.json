@@ -27,6 +27,9 @@
         "**/.pxt": true
     },
     "cSpell.words": [
-        "Enderman"
+        "Enderman",
+        "jekyll",
+        "makecode",
+        "microbit"
     ]
 }
