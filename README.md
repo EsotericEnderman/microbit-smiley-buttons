@@ -1,8 +1,8 @@
-# Smiley Buttons
+# Microbit Smiley Buttons
 
 > A microbit project that makes buttons show smiley faces on the screen.
 
-> Open this page at [https://EsotericEnderman.github.io/smiley-buttons/](https://EsotericEnderman.github.io/smiley-buttons/)
+> Open this page at [https://EsotericEnderman.github.io/microbit-smiley-buttons/](https://EsotericEnderman.github.io/microbit-smiley-buttons/)
 
 ## Use as Extension
 
@@ -11,7 +11,7 @@ This repository can be added as an **extension** in MakeCode.
 * open [https://makecode.microbit.org/](https://makecode.microbit.org/)
 * click on **New Project**
 * click on **Extensions** under the gearwheel menu
-* search for **https://github.com/EsotericEnderman/smiley-buttons** and import
+* search for **https://github.com/EsotericEnderman/microbit-smiley-buttons** and import
 
 ## Edit This Project
 
@@ -19,7 +19,7 @@ To edit this repository in MakeCode.
 
 * open [https://makecode.microbit.org/](https://makecode.microbit.org/)
 * click on **Import** then click on **Import URL**
-* paste **https://github.com/EsotericEnderman/smiley-buttons** and click import
+* paste **https://github.com/EsotericEnderman/microbit-smiley-buttons** and click import
 
 ## Metadata (Used for Search, Rendering)
 
