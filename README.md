@@ -1,5 +1,7 @@
 # Microbit Smiley Buttons
 
+[![Project Status: Completed](./assets/images/badges/status.svg)](./)
+
 > A microbit project that makes buttons show smiley faces on the screen.
 
 > Open this page at [https://EsotericEnderman.github.io/microbit-smiley-buttons/](https://EsotericEnderman.github.io/microbit-smiley-buttons/)
